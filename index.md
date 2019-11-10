@@ -8,4 +8,4 @@ My personal journal.
 
 ### Week 4 - BKM Assignment
 
-- For the BKM assignment see [BKM Assignment](bkm_data_hw.html)
+- For the BKM assignment see [BKM Assignment](https://pjournal.github.io/mef03-cakarb/bkm_data_hw.html)
