@@ -9,3 +9,10 @@ My personal journal.
 ### Week 4 - BKM Assignment
 
 - For the BKM assignment see [BKM Assignment](https://pjournal.github.io/mef03-cakarb/bkm_data_hw.html)
+
+### Week 6 - ATP Tennis Data Analysis
+
+- For the ATP Tennis Data assignment see [ATP Tennis Assignment](https://pjournal.github.io/mef03-cakarb/tennis_data_set.html)
+
+
+
